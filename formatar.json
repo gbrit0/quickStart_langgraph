@@ -1,0 +1,24 @@
+{
+    "query": "LangGraph",
+    "follow_up_questions": null,
+    "answer": null,
+    "images": [],
+    "results": [
+        {
+            "url": "https://www.ibm.com/think/topics/langgraph",
+            "title": "What is LangGraph? - IBM",
+            "content": "*   [Overview](https://www.ibm.com/think/topics/ai-agents#7281535) *   [Overview](https://www.ibm.com/think/topics/components-of-ai-agents#498277090) *   [Learning](https://www.ibm.com/think/topics/ai-agent-learning#498277087) *   [Tutorial: LangGraph ReAct agent](https://www.ibm.com/think/tutorials/deploy-langgraph-react-agent-manage-it-support-tickets-watsonx-ai#1287801557) *   [Overview](https://www.ibm.com/think/topics/ai-agent-protocols#1509394340) *   [Tutorial: LangGraph ReAct agent](https://www.ibm.com/think/tutorials/deploy-langgraph-react-agent-manage-it-support-tickets-watsonx-ai#80364620) *   [Overview](https://www.ibm.com/think/insights/ai-agent-governance#1268897081) *   [Overview](https://www.ibm.com/think/topics/ai-agent-use-cases#257779831) *   [Human resources](https://www.ibm.com/think/topics/ai-agents-in-human-resources#257779835) LangGraph, created by [LangChain](https://www.ibm.com/think/topics/langchain), is an open source AI agent framework designed to build, deploy and manage complex generative AI agent workflows. At its core, LangGraph uses the power of graph-based architectures to model and manage the intricate relationships between various components of an [AI agent workflow](https://www.ibm.com/think/topics/ai-agents). LangGraph is also built on several key technologies, including [LangChain,](https://www.ibm.com/think/topics/langchain) a Python framework for building AI applications. By combining these technologies with a set of APIs and tools, LangGraph provides users with a versatile platform for developing AI solutions and workflows including [chatbots](https://www.ibm.com/think/topics/chatbots), state graphs and [other agent-based systems](https://www.ibm.com/think/topics/multiagent-system).",
+            "score": 0.93425745,
+            "raw_content": null
+        },
+        {
+            "url": "https://www.reddit.com/r/AI_Agents/comments/1l4uq7v/why_use_langgraph/",
+            "title": "Why use LangGraph? : r/AI_Agents - Reddit",
+            "content": "LangGraph emphasizes graph-based workflows and state management, making it ideal for complex applications with sophisticated logic and memory",
+            "score": 0.81875163,
+            "raw_content": null
+        }
+    ],
+    "response_time": 3.05,
+    "request_id": "a4ab0377-c079-407b-9a76-36cc40fbef08"
+}
